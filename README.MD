@@ -4,4 +4,4 @@
 
 #### Instrutor - <a href="https://www.linkedin.com/in/pedromarins/">Pedro Marins</a>
 
-#### <a href="">Página da Barbearia Alura</a>
+#### <a href="https://cleberfontinele.github.io/barbearia/">Página da Barbearia Alura</a>
